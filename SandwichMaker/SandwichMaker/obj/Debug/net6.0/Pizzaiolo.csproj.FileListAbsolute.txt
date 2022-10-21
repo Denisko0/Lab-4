@@ -1,0 +1,15 @@
+G:\ООП Лаби\Lab#4\Pizzaiolo\Pizzaiolo\bin\Debug\net6.0\Pizzaiolo.exe
+G:\ООП Лаби\Lab#4\Pizzaiolo\Pizzaiolo\bin\Debug\net6.0\Pizzaiolo.deps.json
+G:\ООП Лаби\Lab#4\Pizzaiolo\Pizzaiolo\bin\Debug\net6.0\Pizzaiolo.runtimeconfig.json
+G:\ООП Лаби\Lab#4\Pizzaiolo\Pizzaiolo\bin\Debug\net6.0\Pizzaiolo.dll
+G:\ООП Лаби\Lab#4\Pizzaiolo\Pizzaiolo\bin\Debug\net6.0\Pizzaiolo.pdb
+G:\ООП Лаби\Lab#4\Pizzaiolo\Pizzaiolo\obj\Debug\net6.0\Pizzaiolo.csproj.AssemblyReference.cache
+G:\ООП Лаби\Lab#4\Pizzaiolo\Pizzaiolo\obj\Debug\net6.0\Pizzaiolo.GeneratedMSBuildEditorConfig.editorconfig
+G:\ООП Лаби\Lab#4\Pizzaiolo\Pizzaiolo\obj\Debug\net6.0\Pizzaiolo.AssemblyInfoInputs.cache
+G:\ООП Лаби\Lab#4\Pizzaiolo\Pizzaiolo\obj\Debug\net6.0\Pizzaiolo.AssemblyInfo.cs
+G:\ООП Лаби\Lab#4\Pizzaiolo\Pizzaiolo\obj\Debug\net6.0\Pizzaiolo.csproj.CoreCompileInputs.cache
+G:\ООП Лаби\Lab#4\Pizzaiolo\Pizzaiolo\obj\Debug\net6.0\Pizzaiolo.dll
+G:\ООП Лаби\Lab#4\Pizzaiolo\Pizzaiolo\obj\Debug\net6.0\refint\Pizzaiolo.dll
+G:\ООП Лаби\Lab#4\Pizzaiolo\Pizzaiolo\obj\Debug\net6.0\Pizzaiolo.pdb
+G:\ООП Лаби\Lab#4\Pizzaiolo\Pizzaiolo\obj\Debug\net6.0\Pizzaiolo.genruntimeconfig.cache
+G:\ООП Лаби\Lab#4\Pizzaiolo\Pizzaiolo\obj\Debug\net6.0\ref\Pizzaiolo.dll
